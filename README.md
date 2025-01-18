@@ -2,7 +2,6 @@ ejsExcel
 --------
 > nodejs excel template engine. node export excel, ejsExcel
 
-
 ### How to use?
 ```bash
 npm install ejsexcel
